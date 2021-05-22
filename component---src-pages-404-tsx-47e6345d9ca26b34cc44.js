@@ -1,2 +1,0 @@
-(self.webpackChunkcarcoatingrefine_com=self.webpackChunkcarcoatingrefine_com||[]).push([[218],{938:function(e,t,n){"use strict";n.r(t);var c=n(7294),a=n(5414);t.default=function(){return c.createElement(a.q,null,c.createElement("meta",{name:"robots",content:"noindex"}),c.createElement("meta",{"http-equiv":"Refresh",content:"0; URL=https://carcoatingrefine.com/"}))}}}]);
-//# sourceMappingURL=component---src-pages-404-tsx-47e6345d9ca26b34cc44.js.map
